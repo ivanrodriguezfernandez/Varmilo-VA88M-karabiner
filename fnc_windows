@@ -1,0 +1,6 @@
+https://www.reddit.com/r/MechanicalKeyboards/comments/ebhelh/windows_key_on_varmilo_va108m_not_working_any/
+
+
+A87/108 Caps lock and ctrl is switched, or Win key doesn’t work, or Win and FN is switched
+
+method：Hold Fn down and press ESC about 4 seconds, if Capslocked backlight can flash 3 times, it means reset succeed. If FN and left WIN swapped,hold left WIN down, and press ESC about 4 seconds, capslocked backlight will flash 3 times.
